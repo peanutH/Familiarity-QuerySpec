@@ -17,7 +17,7 @@ Additionally, the annotators' responses to each question are included to show th
 
 ```
 @inproceedings{He2025peanut,
-author = {Jiaman, He and Leng, Zikang and Dana, McKay and Johanne, R, Trippas and Damiano, Spina},
+author = {He, Jiaman and Leng, Zikang and McKay, Dana and Trippas, R, Johanne and Spina, Damiano},
 title = {Characterising Topic Familiarity and Query Specificity Using Eye-Tracking Data},
 year = {2025},
 doi = {10.1145/3726302.3730174},
